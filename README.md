@@ -22,32 +22,39 @@
   ### 🛠️ Tech Stack & Tools
 
   <!-- Programming Languages -->
-  **Programming & Scripting**<br>
-  <img src="https://skillicons.dev/icons?i=python,r" /><br><br>
+  **Programming Languages**<br>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,js,ts" /><br><br>
 
-  <!-- Data Analysis & Visualization -->
-  **Data Analysis & Visualization**<br>
+  <!-- Data Science, AI & ML -->
+  **Data Science, NLP & AI**<br>
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white" height="32" />
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black" height="32" /><br><br>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="32" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&color=white" height="32" />
+  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&color=white" height="32" /><br><br>
 
-  <!-- Databases & Data Engineering -->
-  **Databases & Data Engineering**<br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git" /><br><br>
+  <!-- Data Engineering & Databases -->
+  **Data Engineering & Databases**<br>
+  <img src="https://skillicons.dev/icons?i=postgres,docker" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white" height="32" /><br><br>
 
-  <!-- Machine Learning (Beginner) -->
-  **Machine Learning (Learning Journey)**<br>
-  <img src="https://skillicons.dev/icons?i=scikit" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" height="32" />
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252" height="32" />
+  <!-- Web Development -->
+  **Web Development**<br>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,sass,vite" /><br><br>
+
+  <!-- Tools & Environments -->
+  **Tools, Cloud & Game Dev**<br>
+  <img src="https://skillicons.dev/icons?i=git,github,ubuntu,unity,blender" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="32" />
 
   <hr>
 
   ### 📊 GitHub Stats & Activity
 
   <!-- 5. Dynamic GitHub Stats -->
-  <!-- متنساش تغير YourUsername لاسم حسابك على جيتهاب -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedHaitham911&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHaitham911&theme=tokyonight&hide_border=true" width="48%">
 
 </div>
